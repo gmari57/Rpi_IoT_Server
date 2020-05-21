@@ -1,0 +1,242 @@
+2020-03-12 18:31:28.666 [WARN ] [g.eclipse.smarthome.core.net.NetUtil] - Found multiple local interfaces - ignoring 169.254.169.203
+2020-03-12 18:31:28.679 [WARN ] [g.eclipse.smarthome.core.net.NetUtil] - Found multiple local interfaces - ignoring 169.254.129.179
+2020-03-12 18:31:28.680 [WARN ] [g.eclipse.smarthome.core.net.NetUtil] - Found multiple local interfaces - ignoring 169.254.169.21
+2020-03-12 18:31:28.681 [WARN ] [g.eclipse.smarthome.core.net.NetUtil] - Found multiple local interfaces - ignoring 169.254.130.146
+2020-03-12 18:31:28.682 [WARN ] [g.eclipse.smarthome.core.net.NetUtil] - Found multiple local interfaces - ignoring 169.254.167.234
+2020-03-12 18:31:28.684 [WARN ] [g.eclipse.smarthome.core.net.NetUtil] - Found multiple local interfaces - ignoring 172.18.0.1
+2020-03-12 18:31:28.685 [WARN ] [g.eclipse.smarthome.core.net.NetUtil] - Found multiple local interfaces - ignoring 192.168.1.53
+2020-03-12 18:31:29.594 [INFO ] [.dashboard.internal.DashboardService] - Started Dashboard at http://169.254.17.197:8080
+2020-03-12 18:31:29.595 [INFO ] [.dashboard.internal.DashboardService] - Started Dashboard at https://169.254.17.197:8443
+2020-03-12 18:31:30.865 [INFO ] [thome.model.lsp.internal.ModelServer] - Started Language Server Protocol (LSP) service on port 5007
+2020-03-12 19:40:38.487 [WARN ] [g.eclipse.smarthome.core.net.NetUtil] - Found multiple local interfaces - ignoring 169.254.171.129
+2020-03-12 19:40:38.501 [WARN ] [g.eclipse.smarthome.core.net.NetUtil] - Found multiple local interfaces - ignoring 169.254.20.155
+2020-03-12 19:40:38.502 [WARN ] [g.eclipse.smarthome.core.net.NetUtil] - Found multiple local interfaces - ignoring 169.254.245.150
+2020-03-12 19:40:38.504 [WARN ] [g.eclipse.smarthome.core.net.NetUtil] - Found multiple local interfaces - ignoring 169.254.45.21
+2020-03-12 19:40:38.505 [WARN ] [g.eclipse.smarthome.core.net.NetUtil] - Found multiple local interfaces - ignoring 169.254.120.49
+2020-03-12 19:40:38.506 [WARN ] [g.eclipse.smarthome.core.net.NetUtil] - Found multiple local interfaces - ignoring 172.18.0.1
+2020-03-12 19:40:38.507 [WARN ] [g.eclipse.smarthome.core.net.NetUtil] - Found multiple local interfaces - ignoring 192.168.1.53
+2020-03-12 19:40:42.312 [WARN ] [g.eclipse.smarthome.core.net.NetUtil] - Found multiple local interfaces - ignoring 169.254.171.129
+2020-03-12 19:40:42.315 [WARN ] [g.eclipse.smarthome.core.net.NetUtil] - Found multiple local interfaces - ignoring 169.254.20.155
+2020-03-12 19:40:42.317 [WARN ] [g.eclipse.smarthome.core.net.NetUtil] - Found multiple local interfaces - ignoring 169.254.245.150
+2020-03-12 19:40:42.319 [WARN ] [g.eclipse.smarthome.core.net.NetUtil] - Found multiple local interfaces - ignoring 169.254.45.21
+2020-03-12 19:40:42.321 [WARN ] [g.eclipse.smarthome.core.net.NetUtil] - Found multiple local interfaces - ignoring 169.254.120.49
+2020-03-12 19:40:42.323 [WARN ] [g.eclipse.smarthome.core.net.NetUtil] - Found multiple local interfaces - ignoring 172.18.0.1
+2020-03-12 19:40:42.325 [WARN ] [g.eclipse.smarthome.core.net.NetUtil] - Found multiple local interfaces - ignoring 192.168.1.53
+2020-03-12 19:40:47.646 [INFO ] [thome.model.lsp.internal.ModelServer] - Started Language Server Protocol (LSP) service on port 5007
+2020-03-12 19:40:48.756 [INFO ] [.dashboard.internal.DashboardService] - Started Dashboard at http://169.254.176.10:8080
+2020-03-12 19:40:48.761 [INFO ] [.dashboard.internal.DashboardService] - Started Dashboard at https://169.254.176.10:8443
+2020-03-19 19:11:14.260 [WARN ] [g.eclipse.smarthome.core.net.NetUtil] - Found multiple local interfaces - ignoring 169.254.171.66
+2020-03-19 19:11:14.279 [WARN ] [g.eclipse.smarthome.core.net.NetUtil] - Found multiple local interfaces - ignoring 169.254.33.8
+2020-03-19 19:11:14.280 [WARN ] [g.eclipse.smarthome.core.net.NetUtil] - Found multiple local interfaces - ignoring 169.254.11.130
+2020-03-19 19:11:14.282 [WARN ] [g.eclipse.smarthome.core.net.NetUtil] - Found multiple local interfaces - ignoring 169.254.246.231
+2020-03-19 19:11:14.284 [WARN ] [g.eclipse.smarthome.core.net.NetUtil] - Found multiple local interfaces - ignoring 169.254.11.212
+2020-03-19 19:11:14.285 [WARN ] [g.eclipse.smarthome.core.net.NetUtil] - Found multiple local interfaces - ignoring 172.18.0.1
+2020-03-19 19:11:14.287 [WARN ] [g.eclipse.smarthome.core.net.NetUtil] - Found multiple local interfaces - ignoring 192.168.1.32
+2020-03-19 19:11:23.095 [WARN ] [g.eclipse.smarthome.core.net.NetUtil] - Found multiple local interfaces - ignoring 169.254.171.66
+2020-03-19 19:11:23.097 [WARN ] [g.eclipse.smarthome.core.net.NetUtil] - Found multiple local interfaces - ignoring 169.254.33.8
+2020-03-19 19:11:23.099 [WARN ] [g.eclipse.smarthome.core.net.NetUtil] - Found multiple local interfaces - ignoring 169.254.11.130
+2020-03-19 19:11:23.101 [WARN ] [g.eclipse.smarthome.core.net.NetUtil] - Found multiple local interfaces - ignoring 169.254.246.231
+2020-03-19 19:11:23.103 [WARN ] [g.eclipse.smarthome.core.net.NetUtil] - Found multiple local interfaces - ignoring 169.254.11.212
+2020-03-19 19:11:23.106 [WARN ] [g.eclipse.smarthome.core.net.NetUtil] - Found multiple local interfaces - ignoring 172.18.0.1
+2020-03-19 19:11:23.108 [WARN ] [g.eclipse.smarthome.core.net.NetUtil] - Found multiple local interfaces - ignoring 192.168.1.32
+2020-03-19 19:11:36.085 [INFO ] [thome.model.lsp.internal.ModelServer] - Started Language Server Protocol (LSP) service on port 5007
+2020-03-19 19:11:37.308 [INFO ] [.dashboard.internal.DashboardService] - Started Dashboard at http://169.254.211.252:8080
+2020-03-19 19:11:37.313 [INFO ] [.dashboard.internal.DashboardService] - Started Dashboard at https://169.254.211.252:8443
+2020-03-21 23:04:00.001 [WARN ] [g.eclipse.smarthome.core.net.NetUtil] - Found multiple local interfaces - ignoring 169.254.216.168
+2020-03-21 23:04:00.020 [WARN ] [g.eclipse.smarthome.core.net.NetUtil] - Found multiple local interfaces - ignoring 169.254.99.0
+2020-03-21 23:04:00.022 [WARN ] [g.eclipse.smarthome.core.net.NetUtil] - Found multiple local interfaces - ignoring 169.254.253.117
+2020-03-21 23:04:00.023 [WARN ] [g.eclipse.smarthome.core.net.NetUtil] - Found multiple local interfaces - ignoring 169.254.151.116
+2020-03-21 23:04:00.025 [WARN ] [g.eclipse.smarthome.core.net.NetUtil] - Found multiple local interfaces - ignoring 169.254.196.17
+2020-03-21 23:04:00.026 [WARN ] [g.eclipse.smarthome.core.net.NetUtil] - Found multiple local interfaces - ignoring 172.18.0.1
+2020-03-21 23:04:00.028 [WARN ] [g.eclipse.smarthome.core.net.NetUtil] - Found multiple local interfaces - ignoring 192.168.1.32
+2020-03-21 23:04:03.689 [WARN ] [g.eclipse.smarthome.core.net.NetUtil] - Found multiple local interfaces - ignoring 169.254.216.168
+2020-03-21 23:04:03.691 [WARN ] [g.eclipse.smarthome.core.net.NetUtil] - Found multiple local interfaces - ignoring 169.254.99.0
+2020-03-21 23:04:03.693 [WARN ] [g.eclipse.smarthome.core.net.NetUtil] - Found multiple local interfaces - ignoring 169.254.253.117
+2020-03-21 23:04:03.694 [WARN ] [g.eclipse.smarthome.core.net.NetUtil] - Found multiple local interfaces - ignoring 169.254.151.116
+2020-03-21 23:04:03.696 [WARN ] [g.eclipse.smarthome.core.net.NetUtil] - Found multiple local interfaces - ignoring 169.254.196.17
+2020-03-21 23:04:03.698 [WARN ] [g.eclipse.smarthome.core.net.NetUtil] - Found multiple local interfaces - ignoring 172.18.0.1
+2020-03-21 23:04:03.701 [WARN ] [g.eclipse.smarthome.core.net.NetUtil] - Found multiple local interfaces - ignoring 192.168.1.32
+2020-03-21 23:04:08.933 [INFO ] [thome.model.lsp.internal.ModelServer] - Started Language Server Protocol (LSP) service on port 5007
+2020-03-21 23:04:10.353 [INFO ] [.dashboard.internal.DashboardService] - Started Dashboard at http://169.254.190.236:8080
+2020-03-21 23:04:10.357 [INFO ] [.dashboard.internal.DashboardService] - Started Dashboard at https://169.254.190.236:8443
+2020-03-21 23:58:33.336 [WARN ] [g.eclipse.smarthome.core.net.NetUtil] - Found multiple local interfaces - ignoring 169.254.183.165
+2020-03-21 23:58:33.349 [WARN ] [g.eclipse.smarthome.core.net.NetUtil] - Found multiple local interfaces - ignoring 169.254.98.166
+2020-03-21 23:58:33.350 [WARN ] [g.eclipse.smarthome.core.net.NetUtil] - Found multiple local interfaces - ignoring 169.254.180.233
+2020-03-21 23:58:33.351 [WARN ] [g.eclipse.smarthome.core.net.NetUtil] - Found multiple local interfaces - ignoring 169.254.97.181
+2020-03-21 23:58:33.353 [WARN ] [g.eclipse.smarthome.core.net.NetUtil] - Found multiple local interfaces - ignoring 169.254.28.195
+2020-03-21 23:58:33.354 [WARN ] [g.eclipse.smarthome.core.net.NetUtil] - Found multiple local interfaces - ignoring 172.18.0.1
+2020-03-21 23:58:33.355 [WARN ] [g.eclipse.smarthome.core.net.NetUtil] - Found multiple local interfaces - ignoring 192.168.1.32
+2020-03-21 23:58:36.846 [WARN ] [g.eclipse.smarthome.core.net.NetUtil] - Found multiple local interfaces - ignoring 169.254.183.165
+2020-03-21 23:58:36.848 [WARN ] [g.eclipse.smarthome.core.net.NetUtil] - Found multiple local interfaces - ignoring 169.254.98.166
+2020-03-21 23:58:36.849 [WARN ] [g.eclipse.smarthome.core.net.NetUtil] - Found multiple local interfaces - ignoring 169.254.180.233
+2020-03-21 23:58:36.850 [WARN ] [g.eclipse.smarthome.core.net.NetUtil] - Found multiple local interfaces - ignoring 169.254.97.181
+2020-03-21 23:58:36.852 [WARN ] [g.eclipse.smarthome.core.net.NetUtil] - Found multiple local interfaces - ignoring 169.254.28.195
+2020-03-21 23:58:36.854 [WARN ] [g.eclipse.smarthome.core.net.NetUtil] - Found multiple local interfaces - ignoring 172.18.0.1
+2020-03-21 23:58:36.856 [WARN ] [g.eclipse.smarthome.core.net.NetUtil] - Found multiple local interfaces - ignoring 192.168.1.32
+2020-03-21 23:58:42.430 [INFO ] [thome.model.lsp.internal.ModelServer] - Started Language Server Protocol (LSP) service on port 5007
+2020-03-21 23:58:43.542 [INFO ] [.dashboard.internal.DashboardService] - Started Dashboard at http://169.254.240.164:8080
+2020-03-21 23:58:43.546 [INFO ] [.dashboard.internal.DashboardService] - Started Dashboard at https://169.254.240.164:8443
+2020-03-22 18:53:08.809 [WARN ] [g.eclipse.smarthome.core.net.NetUtil] - Found multiple local interfaces - ignoring 169.254.11.15
+2020-03-22 18:53:08.823 [WARN ] [g.eclipse.smarthome.core.net.NetUtil] - Found multiple local interfaces - ignoring 169.254.228.74
+2020-03-22 18:53:08.824 [WARN ] [g.eclipse.smarthome.core.net.NetUtil] - Found multiple local interfaces - ignoring 169.254.133.25
+2020-03-22 18:53:08.825 [WARN ] [g.eclipse.smarthome.core.net.NetUtil] - Found multiple local interfaces - ignoring 169.254.101.221
+2020-03-22 18:53:08.826 [WARN ] [g.eclipse.smarthome.core.net.NetUtil] - Found multiple local interfaces - ignoring 169.254.118.19
+2020-03-22 18:53:08.827 [WARN ] [g.eclipse.smarthome.core.net.NetUtil] - Found multiple local interfaces - ignoring 172.18.0.1
+2020-03-22 18:53:08.828 [WARN ] [g.eclipse.smarthome.core.net.NetUtil] - Found multiple local interfaces - ignoring 192.168.1.32
+2020-03-22 18:53:12.428 [WARN ] [g.eclipse.smarthome.core.net.NetUtil] - Found multiple local interfaces - ignoring 169.254.11.15
+2020-03-22 18:53:12.430 [WARN ] [g.eclipse.smarthome.core.net.NetUtil] - Found multiple local interfaces - ignoring 169.254.228.74
+2020-03-22 18:53:12.432 [WARN ] [g.eclipse.smarthome.core.net.NetUtil] - Found multiple local interfaces - ignoring 169.254.133.25
+2020-03-22 18:53:12.434 [WARN ] [g.eclipse.smarthome.core.net.NetUtil] - Found multiple local interfaces - ignoring 169.254.101.221
+2020-03-22 18:53:12.436 [WARN ] [g.eclipse.smarthome.core.net.NetUtil] - Found multiple local interfaces - ignoring 169.254.118.19
+2020-03-22 18:53:12.437 [WARN ] [g.eclipse.smarthome.core.net.NetUtil] - Found multiple local interfaces - ignoring 172.18.0.1
+2020-03-22 18:53:12.439 [WARN ] [g.eclipse.smarthome.core.net.NetUtil] - Found multiple local interfaces - ignoring 192.168.1.32
+2020-03-22 18:53:17.403 [INFO ] [thome.model.lsp.internal.ModelServer] - Started Language Server Protocol (LSP) service on port 5007
+2020-03-22 18:53:18.862 [INFO ] [.dashboard.internal.DashboardService] - Started Dashboard at http://169.254.204.7:8080
+2020-03-22 18:53:18.866 [INFO ] [.dashboard.internal.DashboardService] - Started Dashboard at https://169.254.204.7:8443
+2020-04-03 19:37:50.765 [WARN ] [g.eclipse.smarthome.core.net.NetUtil] - Found multiple local interfaces - ignoring 169.254.93.183
+2020-04-03 19:37:50.780 [WARN ] [g.eclipse.smarthome.core.net.NetUtil] - Found multiple local interfaces - ignoring 169.254.1.225
+2020-04-03 19:37:50.781 [WARN ] [g.eclipse.smarthome.core.net.NetUtil] - Found multiple local interfaces - ignoring 169.254.96.158
+2020-04-03 19:37:50.782 [WARN ] [g.eclipse.smarthome.core.net.NetUtil] - Found multiple local interfaces - ignoring 169.254.211.84
+2020-04-03 19:37:50.784 [WARN ] [g.eclipse.smarthome.core.net.NetUtil] - Found multiple local interfaces - ignoring 169.254.167.71
+2020-04-03 19:37:50.785 [WARN ] [g.eclipse.smarthome.core.net.NetUtil] - Found multiple local interfaces - ignoring 172.18.0.1
+2020-04-03 19:37:50.787 [WARN ] [g.eclipse.smarthome.core.net.NetUtil] - Found multiple local interfaces - ignoring 192.168.1.110
+2020-04-03 19:37:56.179 [WARN ] [g.eclipse.smarthome.core.net.NetUtil] - Found multiple local interfaces - ignoring 169.254.93.183
+2020-04-03 19:37:56.182 [WARN ] [g.eclipse.smarthome.core.net.NetUtil] - Found multiple local interfaces - ignoring 169.254.1.225
+2020-04-03 19:37:56.196 [WARN ] [g.eclipse.smarthome.core.net.NetUtil] - Found multiple local interfaces - ignoring 169.254.96.158
+2020-04-03 19:37:56.200 [WARN ] [g.eclipse.smarthome.core.net.NetUtil] - Found multiple local interfaces - ignoring 169.254.211.84
+2020-04-03 19:37:56.205 [WARN ] [g.eclipse.smarthome.core.net.NetUtil] - Found multiple local interfaces - ignoring 169.254.167.71
+2020-04-03 19:37:56.207 [WARN ] [g.eclipse.smarthome.core.net.NetUtil] - Found multiple local interfaces - ignoring 172.18.0.1
+2020-04-03 19:37:56.215 [WARN ] [g.eclipse.smarthome.core.net.NetUtil] - Found multiple local interfaces - ignoring 192.168.1.110
+2020-04-03 19:38:05.447 [INFO ] [thome.model.lsp.internal.ModelServer] - Started Language Server Protocol (LSP) service on port 5007
+2020-04-03 19:38:08.973 [INFO ] [.dashboard.internal.DashboardService] - Started Dashboard at http://169.254.73.87:8080
+2020-04-03 19:38:08.976 [INFO ] [.dashboard.internal.DashboardService] - Started Dashboard at https://169.254.73.87:8443
+2020-04-09 14:01:14.848 [WARN ] [g.eclipse.smarthome.core.net.NetUtil] - Found multiple local interfaces - ignoring 169.254.195.255
+2020-04-09 14:01:14.865 [WARN ] [g.eclipse.smarthome.core.net.NetUtil] - Found multiple local interfaces - ignoring 169.254.158.138
+2020-04-09 14:01:14.866 [WARN ] [g.eclipse.smarthome.core.net.NetUtil] - Found multiple local interfaces - ignoring 169.254.8.41
+2020-04-09 14:01:14.868 [WARN ] [g.eclipse.smarthome.core.net.NetUtil] - Found multiple local interfaces - ignoring 169.254.113.86
+2020-04-09 14:01:14.869 [WARN ] [g.eclipse.smarthome.core.net.NetUtil] - Found multiple local interfaces - ignoring 169.254.25.242
+2020-04-09 14:01:14.871 [WARN ] [g.eclipse.smarthome.core.net.NetUtil] - Found multiple local interfaces - ignoring 172.18.0.1
+2020-04-09 14:01:14.873 [WARN ] [g.eclipse.smarthome.core.net.NetUtil] - Found multiple local interfaces - ignoring 192.168.1.50
+2020-04-09 14:01:20.070 [WARN ] [g.eclipse.smarthome.core.net.NetUtil] - Found multiple local interfaces - ignoring 169.254.195.255
+2020-04-09 14:01:20.072 [WARN ] [g.eclipse.smarthome.core.net.NetUtil] - Found multiple local interfaces - ignoring 169.254.158.138
+2020-04-09 14:01:20.073 [WARN ] [g.eclipse.smarthome.core.net.NetUtil] - Found multiple local interfaces - ignoring 169.254.8.41
+2020-04-09 14:01:20.074 [WARN ] [g.eclipse.smarthome.core.net.NetUtil] - Found multiple local interfaces - ignoring 169.254.113.86
+2020-04-09 14:01:20.078 [WARN ] [g.eclipse.smarthome.core.net.NetUtil] - Found multiple local interfaces - ignoring 169.254.25.242
+2020-04-09 14:01:20.080 [WARN ] [g.eclipse.smarthome.core.net.NetUtil] - Found multiple local interfaces - ignoring 172.18.0.1
+2020-04-09 14:01:20.087 [WARN ] [g.eclipse.smarthome.core.net.NetUtil] - Found multiple local interfaces - ignoring 192.168.1.50
+2020-04-09 14:01:31.579 [INFO ] [thome.model.lsp.internal.ModelServer] - Started Language Server Protocol (LSP) service on port 5007
+2020-04-09 14:01:32.735 [INFO ] [.dashboard.internal.DashboardService] - Started Dashboard at http://169.254.36.62:8080
+2020-04-09 14:01:32.739 [INFO ] [.dashboard.internal.DashboardService] - Started Dashboard at https://169.254.36.62:8443
+2020-04-09 14:25:13.697 [WARN ] [g.eclipse.smarthome.core.net.NetUtil] - Found multiple local interfaces - ignoring 169.254.27.185
+2020-04-09 14:25:13.718 [WARN ] [g.eclipse.smarthome.core.net.NetUtil] - Found multiple local interfaces - ignoring 169.254.17.253
+2020-04-09 14:25:13.719 [WARN ] [g.eclipse.smarthome.core.net.NetUtil] - Found multiple local interfaces - ignoring 169.254.54.9
+2020-04-09 14:25:13.721 [WARN ] [g.eclipse.smarthome.core.net.NetUtil] - Found multiple local interfaces - ignoring 169.254.21.252
+2020-04-09 14:25:13.723 [WARN ] [g.eclipse.smarthome.core.net.NetUtil] - Found multiple local interfaces - ignoring 169.254.179.200
+2020-04-09 14:25:13.724 [WARN ] [g.eclipse.smarthome.core.net.NetUtil] - Found multiple local interfaces - ignoring 172.18.0.1
+2020-04-09 14:25:13.725 [WARN ] [g.eclipse.smarthome.core.net.NetUtil] - Found multiple local interfaces - ignoring 192.168.1.50
+2020-04-09 14:25:17.141 [WARN ] [g.eclipse.smarthome.core.net.NetUtil] - Found multiple local interfaces - ignoring 169.254.27.185
+2020-04-09 14:25:17.143 [WARN ] [g.eclipse.smarthome.core.net.NetUtil] - Found multiple local interfaces - ignoring 169.254.17.253
+2020-04-09 14:25:17.144 [WARN ] [g.eclipse.smarthome.core.net.NetUtil] - Found multiple local interfaces - ignoring 169.254.54.9
+2020-04-09 14:25:17.146 [WARN ] [g.eclipse.smarthome.core.net.NetUtil] - Found multiple local interfaces - ignoring 169.254.21.252
+2020-04-09 14:25:17.147 [WARN ] [g.eclipse.smarthome.core.net.NetUtil] - Found multiple local interfaces - ignoring 169.254.179.200
+2020-04-09 14:25:17.149 [WARN ] [g.eclipse.smarthome.core.net.NetUtil] - Found multiple local interfaces - ignoring 172.18.0.1
+2020-04-09 14:25:17.151 [WARN ] [g.eclipse.smarthome.core.net.NetUtil] - Found multiple local interfaces - ignoring 192.168.1.50
+2020-04-09 14:25:22.933 [INFO ] [thome.model.lsp.internal.ModelServer] - Started Language Server Protocol (LSP) service on port 5007
+2020-04-09 14:25:23.956 [INFO ] [.dashboard.internal.DashboardService] - Started Dashboard at http://169.254.251.212:8080
+2020-04-09 14:25:23.959 [INFO ] [.dashboard.internal.DashboardService] - Started Dashboard at https://169.254.251.212:8443
+2020-04-09 14:28:01.507 [WARN ] [g.eclipse.smarthome.core.net.NetUtil] - Found multiple local interfaces - ignoring 169.254.59.80
+2020-04-09 14:28:01.522 [WARN ] [g.eclipse.smarthome.core.net.NetUtil] - Found multiple local interfaces - ignoring 169.254.219.158
+2020-04-09 14:28:01.523 [WARN ] [g.eclipse.smarthome.core.net.NetUtil] - Found multiple local interfaces - ignoring 169.254.252.43
+2020-04-09 14:28:01.525 [WARN ] [g.eclipse.smarthome.core.net.NetUtil] - Found multiple local interfaces - ignoring 169.254.174.18
+2020-04-09 14:28:01.526 [WARN ] [g.eclipse.smarthome.core.net.NetUtil] - Found multiple local interfaces - ignoring 169.254.224.237
+2020-04-09 14:28:01.527 [WARN ] [g.eclipse.smarthome.core.net.NetUtil] - Found multiple local interfaces - ignoring 172.18.0.1
+2020-04-09 14:28:01.529 [WARN ] [g.eclipse.smarthome.core.net.NetUtil] - Found multiple local interfaces - ignoring 192.168.1.50
+2020-04-09 14:28:05.656 [WARN ] [g.eclipse.smarthome.core.net.NetUtil] - Found multiple local interfaces - ignoring 169.254.59.80
+2020-04-09 14:28:05.658 [WARN ] [g.eclipse.smarthome.core.net.NetUtil] - Found multiple local interfaces - ignoring 169.254.219.158
+2020-04-09 14:28:05.660 [WARN ] [g.eclipse.smarthome.core.net.NetUtil] - Found multiple local interfaces - ignoring 169.254.252.43
+2020-04-09 14:28:05.662 [WARN ] [g.eclipse.smarthome.core.net.NetUtil] - Found multiple local interfaces - ignoring 169.254.174.18
+2020-04-09 14:28:05.663 [WARN ] [g.eclipse.smarthome.core.net.NetUtil] - Found multiple local interfaces - ignoring 169.254.224.237
+2020-04-09 14:28:05.665 [WARN ] [g.eclipse.smarthome.core.net.NetUtil] - Found multiple local interfaces - ignoring 172.18.0.1
+2020-04-09 14:28:05.667 [WARN ] [g.eclipse.smarthome.core.net.NetUtil] - Found multiple local interfaces - ignoring 192.168.1.50
+2020-04-09 14:28:10.642 [INFO ] [thome.model.lsp.internal.ModelServer] - Started Language Server Protocol (LSP) service on port 5007
+2020-04-09 14:28:12.084 [INFO ] [.dashboard.internal.DashboardService] - Started Dashboard at http://169.254.176.30:8080
+2020-04-09 14:28:12.087 [INFO ] [.dashboard.internal.DashboardService] - Started Dashboard at https://169.254.176.30:8443
+2020-04-09 15:16:07.109 [WARN ] [g.eclipse.smarthome.core.net.NetUtil] - Found multiple local interfaces - ignoring 169.254.32.21
+2020-04-09 15:16:07.124 [WARN ] [g.eclipse.smarthome.core.net.NetUtil] - Found multiple local interfaces - ignoring 169.254.97.77
+2020-04-09 15:16:07.125 [WARN ] [g.eclipse.smarthome.core.net.NetUtil] - Found multiple local interfaces - ignoring 169.254.193.188
+2020-04-09 15:16:07.127 [WARN ] [g.eclipse.smarthome.core.net.NetUtil] - Found multiple local interfaces - ignoring 169.254.100.105
+2020-04-09 15:16:07.128 [WARN ] [g.eclipse.smarthome.core.net.NetUtil] - Found multiple local interfaces - ignoring 169.254.55.116
+2020-04-09 15:16:07.129 [WARN ] [g.eclipse.smarthome.core.net.NetUtil] - Found multiple local interfaces - ignoring 172.18.0.1
+2020-04-09 15:16:07.130 [WARN ] [g.eclipse.smarthome.core.net.NetUtil] - Found multiple local interfaces - ignoring 192.168.1.50
+2020-04-09 15:16:11.139 [WARN ] [g.eclipse.smarthome.core.net.NetUtil] - Found multiple local interfaces - ignoring 169.254.32.21
+2020-04-09 15:16:11.141 [WARN ] [g.eclipse.smarthome.core.net.NetUtil] - Found multiple local interfaces - ignoring 169.254.97.77
+2020-04-09 15:16:11.142 [WARN ] [g.eclipse.smarthome.core.net.NetUtil] - Found multiple local interfaces - ignoring 169.254.193.188
+2020-04-09 15:16:11.144 [WARN ] [g.eclipse.smarthome.core.net.NetUtil] - Found multiple local interfaces - ignoring 169.254.100.105
+2020-04-09 15:16:11.146 [WARN ] [g.eclipse.smarthome.core.net.NetUtil] - Found multiple local interfaces - ignoring 169.254.55.116
+2020-04-09 15:16:11.147 [WARN ] [g.eclipse.smarthome.core.net.NetUtil] - Found multiple local interfaces - ignoring 172.18.0.1
+2020-04-09 15:16:11.149 [WARN ] [g.eclipse.smarthome.core.net.NetUtil] - Found multiple local interfaces - ignoring 192.168.1.50
+2020-04-09 15:16:16.227 [INFO ] [thome.model.lsp.internal.ModelServer] - Started Language Server Protocol (LSP) service on port 5007
+2020-04-09 15:16:18.088 [INFO ] [.dashboard.internal.DashboardService] - Started Dashboard at http://169.254.211.111:8080
+2020-04-09 15:16:18.091 [INFO ] [.dashboard.internal.DashboardService] - Started Dashboard at https://169.254.211.111:8443
+2020-04-09 21:28:21.295 [WARN ] [g.eclipse.smarthome.core.net.NetUtil] - Found multiple local interfaces - ignoring 169.254.35.79
+2020-04-09 21:28:21.332 [WARN ] [g.eclipse.smarthome.core.net.NetUtil] - Found multiple local interfaces - ignoring 169.254.20.186
+2020-04-09 21:28:21.334 [WARN ] [g.eclipse.smarthome.core.net.NetUtil] - Found multiple local interfaces - ignoring 169.254.1.247
+2020-04-09 21:28:21.335 [WARN ] [g.eclipse.smarthome.core.net.NetUtil] - Found multiple local interfaces - ignoring 169.254.169.176
+2020-04-09 21:28:21.336 [WARN ] [g.eclipse.smarthome.core.net.NetUtil] - Found multiple local interfaces - ignoring 169.254.110.2
+2020-04-09 21:28:21.337 [WARN ] [g.eclipse.smarthome.core.net.NetUtil] - Found multiple local interfaces - ignoring 172.18.0.1
+2020-04-09 21:28:21.339 [WARN ] [g.eclipse.smarthome.core.net.NetUtil] - Found multiple local interfaces - ignoring 192.168.1.50
+2020-04-09 21:28:25.486 [WARN ] [g.eclipse.smarthome.core.net.NetUtil] - Found multiple local interfaces - ignoring 169.254.35.79
+2020-04-09 21:28:25.488 [WARN ] [g.eclipse.smarthome.core.net.NetUtil] - Found multiple local interfaces - ignoring 169.254.20.186
+2020-04-09 21:28:25.490 [WARN ] [g.eclipse.smarthome.core.net.NetUtil] - Found multiple local interfaces - ignoring 169.254.1.247
+2020-04-09 21:28:25.492 [WARN ] [g.eclipse.smarthome.core.net.NetUtil] - Found multiple local interfaces - ignoring 169.254.169.176
+2020-04-09 21:28:25.494 [WARN ] [g.eclipse.smarthome.core.net.NetUtil] - Found multiple local interfaces - ignoring 169.254.110.2
+2020-04-09 21:28:25.495 [WARN ] [g.eclipse.smarthome.core.net.NetUtil] - Found multiple local interfaces - ignoring 172.18.0.1
+2020-04-09 21:28:25.497 [WARN ] [g.eclipse.smarthome.core.net.NetUtil] - Found multiple local interfaces - ignoring 192.168.1.50
+2020-04-09 21:28:31.189 [INFO ] [thome.model.lsp.internal.ModelServer] - Started Language Server Protocol (LSP) service on port 5007
+2020-04-09 21:28:32.286 [INFO ] [.dashboard.internal.DashboardService] - Started Dashboard at http://169.254.127.75:8080
+2020-04-09 21:28:32.290 [INFO ] [.dashboard.internal.DashboardService] - Started Dashboard at https://169.254.127.75:8443
+2020-04-10 14:31:42.222 [WARN ] [g.eclipse.smarthome.core.net.NetUtil] - Found multiple local interfaces - ignoring 169.254.100.76
+2020-04-10 14:31:42.240 [WARN ] [g.eclipse.smarthome.core.net.NetUtil] - Found multiple local interfaces - ignoring 169.254.181.153
+2020-04-10 14:31:42.241 [WARN ] [g.eclipse.smarthome.core.net.NetUtil] - Found multiple local interfaces - ignoring 169.254.76.171
+2020-04-10 14:31:42.243 [WARN ] [g.eclipse.smarthome.core.net.NetUtil] - Found multiple local interfaces - ignoring 169.254.38.255
+2020-04-10 14:31:42.244 [WARN ] [g.eclipse.smarthome.core.net.NetUtil] - Found multiple local interfaces - ignoring 169.254.47.174
+2020-04-10 14:31:42.245 [WARN ] [g.eclipse.smarthome.core.net.NetUtil] - Found multiple local interfaces - ignoring 172.18.0.1
+2020-04-10 14:31:42.246 [WARN ] [g.eclipse.smarthome.core.net.NetUtil] - Found multiple local interfaces - ignoring 192.168.1.50
+2020-04-10 14:31:46.056 [WARN ] [g.eclipse.smarthome.core.net.NetUtil] - Found multiple local interfaces - ignoring 169.254.100.76
+2020-04-10 14:31:46.060 [WARN ] [g.eclipse.smarthome.core.net.NetUtil] - Found multiple local interfaces - ignoring 169.254.181.153
+2020-04-10 14:31:46.062 [WARN ] [g.eclipse.smarthome.core.net.NetUtil] - Found multiple local interfaces - ignoring 169.254.76.171
+2020-04-10 14:31:46.064 [WARN ] [g.eclipse.smarthome.core.net.NetUtil] - Found multiple local interfaces - ignoring 169.254.38.255
+2020-04-10 14:31:46.066 [WARN ] [g.eclipse.smarthome.core.net.NetUtil] - Found multiple local interfaces - ignoring 169.254.47.174
+2020-04-10 14:31:46.068 [WARN ] [g.eclipse.smarthome.core.net.NetUtil] - Found multiple local interfaces - ignoring 172.18.0.1
+2020-04-10 14:31:46.070 [WARN ] [g.eclipse.smarthome.core.net.NetUtil] - Found multiple local interfaces - ignoring 192.168.1.50
+2020-04-10 14:31:54.718 [INFO ] [thome.model.lsp.internal.ModelServer] - Started Language Server Protocol (LSP) service on port 5007
+2020-04-10 14:31:56.484 [INFO ] [.dashboard.internal.DashboardService] - Started Dashboard at http://169.254.32.246:8080
+2020-04-10 14:31:56.489 [INFO ] [.dashboard.internal.DashboardService] - Started Dashboard at https://169.254.32.246:8443
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               2020-04-10 18:00:27.303 [WARN ] [g.eclipse.smarthome.core.net.NetUtil] - Found multiple local interfaces - ignoring 169.254.211.114
+2020-04-10 18:00:27.320 [WARN ] [g.eclipse.smarthome.core.net.NetUtil] - Found multiple local interfaces - ignoring 169.254.126.104
+2020-04-10 18:00:27.322 [WARN ] [g.eclipse.smarthome.core.net.NetUtil] - Found multiple local interfaces - ignoring 169.254.211.159
+2020-04-10 18:00:27.323 [WARN ] [g.eclipse.smarthome.core.net.NetUtil] - Found multiple local interfaces - ignoring 169.254.102.82
+2020-04-10 18:00:27.324 [WARN ] [g.eclipse.smarthome.core.net.NetUtil] - Found multiple local interfaces - ignoring 169.254.233.149
+2020-04-10 18:00:27.326 [WARN ] [g.eclipse.smarthome.core.net.NetUtil] - Found multiple local interfaces - ignoring 172.18.0.1
+2020-04-10 18:00:31.326 [WARN ] [g.eclipse.smarthome.core.net.NetUtil] - Found multiple local interfaces - ignoring 169.254.211.114
+2020-04-10 18:00:31.329 [WARN ] [g.eclipse.smarthome.core.net.NetUtil] - Found multiple local interfaces - ignoring 169.254.126.104
+2020-04-10 18:00:31.330 [WARN ] [g.eclipse.smarthome.core.net.NetUtil] - Found multiple local interfaces - ignoring 169.254.211.159
+2020-04-10 18:00:31.332 [WARN ] [g.eclipse.smarthome.core.net.NetUtil] - Found multiple local interfaces - ignoring 169.254.102.82
+2020-04-10 18:00:31.334 [WARN ] [g.eclipse.smarthome.core.net.NetUtil] - Found multiple local interfaces - ignoring 169.254.233.149
+2020-04-10 18:00:31.336 [WARN ] [g.eclipse.smarthome.core.net.NetUtil] - Found multiple local interfaces - ignoring 172.18.0.1
+2020-04-10 18:00:36.826 [INFO ] [thome.model.lsp.internal.ModelServer] - Started Language Server Protocol (LSP) service on port 5007
+2020-04-10 18:00:37.985 [INFO ] [.dashboard.internal.DashboardService] - Started Dashboard at http://169.254.24.227:8080
+2020-04-10 18:00:37.989 [INFO ] [.dashboard.internal.DashboardService] - Started Dashboard at https://169.254.24.227:8443
+2020-04-10 20:20:09.416 [WARN ] [g.eclipse.smarthome.core.net.NetUtil] - Found multiple local interfaces - ignoring 169.254.83.90
+2020-04-10 20:20:09.451 [WARN ] [g.eclipse.smarthome.core.net.NetUtil] - Found multiple local interfaces - ignoring 169.254.124.183
+2020-04-10 20:20:09.452 [WARN ] [g.eclipse.smarthome.core.net.NetUtil] - Found multiple local interfaces - ignoring 169.254.210.248
+2020-04-10 20:20:09.454 [WARN ] [g.eclipse.smarthome.core.net.NetUtil] - Found multiple local interfaces - ignoring 169.254.11.228
+2020-04-10 20:20:09.456 [WARN ] [g.eclipse.smarthome.core.net.NetUtil] - Found multiple local interfaces - ignoring 172.18.0.1
+2020-04-10 20:20:13.112 [WARN ] [g.eclipse.smarthome.core.net.NetUtil] - Found multiple local interfaces - ignoring 169.254.83.90
+2020-04-10 20:20:13.115 [WARN ] [g.eclipse.smarthome.core.net.NetUtil] - Found multiple local interfaces - ignoring 169.254.124.183
+2020-04-10 20:20:13.117 [WARN ] [g.eclipse.smarthome.core.net.NetUtil] - Found multiple local interfaces - ignoring 169.254.210.248
+2020-04-10 20:20:13.119 [WARN ] [g.eclipse.smarthome.core.net.NetUtil] - Found multiple local interfaces - ignoring 169.254.11.228
+2020-04-10 20:20:13.121 [WARN ] [g.eclipse.smarthome.core.net.NetUtil] - Found multiple local interfaces - ignoring 172.18.0.1
+2020-04-10 20:20:18.529 [INFO ] [thome.model.lsp.internal.ModelServer] - Started Language Server Protocol (LSP) service on port 5007
+2020-04-10 20:20:19.639 [INFO ] [.dashboard.internal.DashboardService] - Started Dashboard at http://169.254.211.83:8080
+2020-04-10 20:20:19.644 [INFO ] [.dashboard.internal.DashboardService] - Started Dashboard at https://169.254.211.83:8443
